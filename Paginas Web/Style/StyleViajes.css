@@ -1,0 +1,154 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+  width: 100%;
+  height: 100%;
+  background-image: url(Los-lugares-abandonados-mas-bellos-del-mundo.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+header.contenido{
+  margin: 80px auto;
+  width: 1100px;
+  height: 1050px;
+  background-color: rgba(0,0,0,.5);
+}
+
+p{
+  font-family: arial;
+}
+
+p.titulo{
+  padding-top: 20px;
+  color: white;
+  text-align: center;
+  font-size: 4.5em;
+}
+
+p.subtitulo{
+  color: white;
+  text-align: center;
+  font-size: 1.2em;
+}
+
+p.fecha{
+  padding-top: 15px;
+  color: white;
+  text-align: right;
+  font-size: 0.8em;
+}
+
+div#primero{
+  margin-top: 5px;
+  width: 100%;
+  height: 200px;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+ul{
+  float: left;
+}
+
+ul#uno{
+  margin-left: 2%;
+  width: 25%;
+  height: 100%;
+}
+
+p.contTitulo{
+  padding-left: 2%;
+  padding-top: 15px;
+  color: white;
+  text-align: center;
+  font-size: 1em;
+}
+
+p.contText{
+  padding-top: 15px;
+  color: white;
+  text-align: justify;
+  font-size: 0.8em;
+}
+
+ul#dos{
+  width: 20%;
+  height: 100%;
+  background-image: url(7-lugares-mas-hermosos-mundo-mc.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 10%;
+}
+
+ul#tres{
+  width: 31%;
+  height: 100%;
+}
+
+p.contTitulo2{
+  padding-top: 15px;
+  color: white;
+  text-align: center;
+  font-size: 1.3em;
+}
+
+ul#cuatro{
+  width: 20%;
+  height: 100%;
+  background-image: url(background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 10%;
+}
+
+li.univer{
+  margin: auto;
+  width: 90%;
+  height: 100%;
+  list-style: none;
+}
+
+div#segundo{
+  margin-top: 20px;
+  width: 100%;
+  height: 600px;
+}
+
+ul#cinco{
+  width: 50%;
+  height: 100%;
+  background-image: url(holidaylights15.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 3%;
+}
+
+ul#seis{
+  width: 50%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+p.contTitulo3{
+  padding-top: 15px;
+  color: white;
+  text-align: center;
+  font-size: 3em;
+}
+
+li.univer2{
+  float: left;
+  width: 50%;
+  height: 70%;
+  list-style: none;
+}
+
+nav.texto{
+  margin: 10px auto;
+  width: 90%;
+  height: 100%;
+}
